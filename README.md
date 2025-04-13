@@ -19,7 +19,7 @@ Unity based 2D platform game with Hand-drawn assets where user controls a witch 
 
 ![GameMenu](https://github.com/user-attachments/assets/dce26d20-b397-4ae5-9942-5333ce10413c)
 
-![Scene](https://github.com/user-attachments/assets/e6030fc7-1aea-42eb-bb44-38cc0bec9d45)
+![Scene](https://github.com/user-attachments/assets/983d7e33-9264-42c7-a13d-65077c968263)
 
 
   
